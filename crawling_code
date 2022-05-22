@@ -18,7 +18,6 @@ soup = BeautifulSoup(html, 'html.parser')
 data = soup.select("#stats_standard_dom_lg > tbody")
 soccer_list = []
 
-
 rows = data[0].findAll('tr')
 for row in rows:
             th = row.findAll('th')
