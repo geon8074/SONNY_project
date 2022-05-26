@@ -37,7 +37,7 @@
 
 # 4. 손흥민 pass type별 성공률
 
-<img width="100%" src= "https://user-images.githubusercontent.com/81503968/170499173-3af8d369-d6d6-4912-a4bb-d3b45d6ea0ee.png">
+<img width="50%" src= "https://user-images.githubusercontent.com/81503968/170499173-3af8d369-d6d6-4912-a4bb-d3b45d6ea0ee.png">
 
 ---
 
